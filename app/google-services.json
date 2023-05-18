@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "30773798918",
+    "project_id": "manageexpense-b60f5",
+    "storage_bucket": "manageexpense-b60f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30773798918:android:8dfe345990446e5035bb87",
+        "android_client_info": {
+          "package_name": "com.example.mywallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30773798918-3vi7tii8k6jd2fasejruidfdhq1mcgf6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mywallet",
+            "certificate_hash": "744fe7e30037ea3e6c660657b9939824f133b508"
+          }
+        },
+        {
+          "client_id": "30773798918-mpjn60280etnb7o2vkjiot99e2morbcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_5F6J_zSLBafSWVLl9T-nKZI7A4yLUGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30773798918-mpjn60280etnb7o2vkjiot99e2morbcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
